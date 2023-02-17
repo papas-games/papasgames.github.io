@@ -1,13 +1,14 @@
-# papasgames.github.io
+# Papa's Games Free Online
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>Play All Papa's Games Free Online</title>
 </head>
 <body>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+<h1>Papa's Freezeria</h1>
+<iframe src="https://en.gameslol.net/data/awayjs/papa/freezeria.html" title="Papa's Freezeria"></iframe>
+
 
 </body>
 </html>
