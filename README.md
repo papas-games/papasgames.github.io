@@ -7,7 +7,6 @@
 <body>
 
 <h1>Papa's Freezeria</h1>
-<iframe src="https://en.gameslol.net/data/awayjs/papa/freezeria.html" title="Papa's Freezeria"></iframe>
 
 
 
